@@ -8,6 +8,10 @@ Please try to take a backup or snapshot of the machine, for restoration in case 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+//Install rpmfusion repo (for mpv)
+
+sudo dnf install http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+
 sudo dnf install xapps mpv intltool
 
 pip3 install IMDbPY
