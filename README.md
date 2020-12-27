@@ -12,7 +12,7 @@ Please try to take a backup or snapshot of the machine, for restoration in case 
 
 sudo dnf install http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 
-sudo dnf install xapps mpv intltool
+sudo dnf install xapps mpv intltool mpv-libs mpv-libs-devel
 
 pip3 install IMDbPY
 
