@@ -1,4 +1,4 @@
-# Fedora33-Hypnotix-IPTV
+# Fedora-Hypnotix-IPTV - Tested Fedora 33+
 
 Steps to install hypnotix manually, till an rpm is available
 
