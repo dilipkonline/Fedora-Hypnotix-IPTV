@@ -26,6 +26,11 @@ make all
 
 sudo /usr/bin/glib-compile-schemas /usr/share/glib-2.0/schemas/
 
+Fedora 35 requires the following step too:
+=================================================
+
+pip3 install unidecode
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Test (from inside hypnotix-master directory or symlink or PATH it for global access)
