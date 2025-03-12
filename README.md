@@ -2,6 +2,7 @@
 
 # **YOU MAY TRY RUNNING THE  ---->>>>>>   Fedora_Install_Hypnotix.sh**
 
+This is tested on Fedora 41.
 
 else try the following steps:
 
