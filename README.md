@@ -1,6 +1,6 @@
 
 
-**YOU MAY TRY RUNNING THE Fedora_Install_Hypnotix.sh**
+# **YOU MAY TRY RUNNING THE  ---->>>>>>   Fedora_Install_Hypnotix.sh**
 
 
 else try the following steps:
