@@ -1,3 +1,13 @@
+
+
+**YOU MAY TRY RUNNING THE Fedora_Install_Hypnotix.sh**
+
+
+else try the following steps:
+
+
+
+
 # Fedora-Hypnotix-IPTV - Tested Fedora 33+
 
 Steps to install hypnotix manually, till an rpm is available
